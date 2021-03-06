@@ -4,6 +4,7 @@ def next_palindrome(n):
         n +=1
     return n
 
+
 def is_palindrome(n):
     return str(n) == str(n)[::-1]
 
