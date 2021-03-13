@@ -3,7 +3,7 @@ def next_palindrome(n):
     n = n+1
     while not is_palindrome(n):
         n +=1
-    return n
+    return N
 
 
 
