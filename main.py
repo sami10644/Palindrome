@@ -11,6 +11,7 @@ def next_palindrome(n):
 
 
 
+
 def is_palindrome(n):
     return str(n) == str(n)[::-1]
 
